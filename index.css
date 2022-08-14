@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial;
-  color: darkgrey;
+  color: rgb(240, 35, 35);
   flex-direction: column;
 }
 
